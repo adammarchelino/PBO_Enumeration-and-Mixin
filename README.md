@@ -1,54 +1,5 @@
 # 📦 PBO - Enumeration dan Mixin
 
-Repositori ini berisi implementasi praktikum **Pemrograman Berorientasi Objek** pada topik **Enumeration dan Mixin** menggunakan bahasa pemrograman **Dart**.
-
-
-
-## 📁 Struktur Folder
-
-```
-PBO_Enumeration-and-Mixin/
-├── Aktivitas Praktikum/
-│   ├── Enumeration pada Gender Manusia/
-│   │   ├── gender.dart
-│   │   ├── manusia.dart
-│   │   └── main.dart
-│   ├── Enumeration pada Komponen Resistor/
-│   │   ├── warna-resistor.dart
-│   │   ├── resistor.dart
-│   │   └── main.dart
-│   ├── Penerapan Mixin/
-│   │   ├── mixin-aktivitas-umum.dart
-│   │   ├── manusia.dart
-│   │   ├── kucing.dart
-│   │   ├── burung.dart
-│   │   ├── ikan.dart
-│   │   └── main.dart
-│   └── Penerapan Pembatasan Mixin/
-│       ├── makhluk-hidup.dart
-│       ├── mixin-aktivitas-umum.dart
-│       ├── manusia.dart
-│       └── main.dart
-└── Tugas Praktikum/
-    ├── enumeration/
-    │   ├── status_pesanan.dart
-    │   ├── pesanan.dart
-    │   └── main.dart
-    ├── enhanced enumeration/
-    │   ├── planet.dart
-    │   ├── eksplorasi.dart
-    │   └── main.dart
-    └── mixin-aktivitas-kampus/
-        ├── sivitas_akademika.dart
-        ├── mixin_akademik.dart
-        ├── mahasiswa.dart
-        ├── dosen.dart
-        ├── tendik.dart
-        └── main.dart
-```
-
----
-
 ## 🔬 Aktivitas Praktikum
 
 ### 1. Enumeration pada Gender Manusia
