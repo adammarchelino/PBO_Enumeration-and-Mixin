@@ -2,7 +2,7 @@
 
 Repositori ini berisi implementasi praktikum **Pemrograman Berorientasi Objek** pada topik **Enumeration dan Mixin** menggunakan bahasa pemrograman **Dart**.
 
----
+
 
 ## 📁 Struktur Folder
 
@@ -180,13 +180,3 @@ Implementasi ini mencerminkan kondisi nyata di lingkungan kampus dengan baik. Se
 Penggunaan constraint `on SivitasAkademika` memastikan mixin akademik ini tidak dapat digunakan pada class yang tidak relevan. Pola ini menegaskan bahwa aktivitas kampus hanya bisa dilakukan oleh entitas yang memang merupakan bagian dari sivitas akademika.
 
 Dibandingkan aktivitas 9.3.3, tugas ini lebih terstruktur karena menggabungkan pembatasan mixin sekaligus menerapkannya pada kasus yang lebih kompleks dengan tiga class berbeda dan enam mixin yang terdistribusi secara tepat sesuai peran masing-masing.
-
----
-
-## 🛠️ Cara Menjalankan
-
-Pastikan [Dart SDK](https://dart.dev/get-dart) sudah terinstall, lalu jalankan file `main.dart` pada masing-masing folder:
-
-```bash
-dart run main.dart
-```
