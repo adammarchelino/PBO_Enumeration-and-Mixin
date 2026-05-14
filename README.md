@@ -1,5 +1,3 @@
-# 📦 PBO - Enumeration dan Mixin
-
 ## 🔬 Aktivitas Praktikum
 
 ### 1. Enumeration pada Gender Manusia
