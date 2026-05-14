@@ -1,0 +1,1 @@
+enum statusPesanan {pending, diproses, dikirim, selesai, dibatalkan}
